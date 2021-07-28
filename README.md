@@ -15,7 +15,7 @@ I'm technology professional with 4 years of experience. I like to troubleshoot, 
 ## Skills ⚡
 
 - Windows, MacOs, Linux
-- Google Suite, Office, JAMF
+- Google Suite, JAMF
 - Networking
 - Cisco IOS, Meraki
 - Google Sheets
