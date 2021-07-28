@@ -4,7 +4,7 @@
 I'm technology professional with 4 years of experience. I like to troubleshoot, documenting process and automate activities. 
 
 * 🔭 I'm currently working as an <strong> IT Assistant at Avenues Sao Paulo. </strong>
-* 🌱 Right now I'm learning about <strong> DevOps practices and the cloud environment </strong>, so I can soon move to a **DevOps Jr** position in this field.
+* 🌱 Right now I'm learning about <strong> DevOps practices and the cloud environment </strong>, so I can soon move to a **DevOps Jr** position.
 
 
 ## What I'm Learning: 💡
