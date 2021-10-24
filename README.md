@@ -10,7 +10,7 @@ I'm technology professional with 4 years of experience. I like to troubleshoot, 
 ## What I'm Learning: 💡
 - I'm a participant on <a href=https://github.com/badtuxx> @badtuxx </a> - <a href=https://github.com/badtuxx/MutiraoDevOps> MutiraoDevOps </a> <strong> FREE </strong> mentorship program. Where I'm learning some tools and soft skills I'll need for achieving a new position.
 
-- Also, I'm learning by myself the basics of some important DevOps tools, Python and Agile methodology.
+- Also, I'm learning by myself the basics of some important DevOps tools, Python, Shell, CI/CD and Agile methodology.
 
 ## Skills ⚡
 
