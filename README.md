@@ -3,7 +3,7 @@
 
 I'm technology professional with 4 years of experience. I like to troubleshoot, documenting process and automate activities. 
 
-* 🔭 I'm currently working as an <strong> IT Assistant at Avenues Sao Paulo. </strong>
+* 🔭 I'm currently working as an <strong> . </strong>
 * 🌱 Right now I'm learning about <strong> DevOps practices and the cloud environment. </strong>
 
 
