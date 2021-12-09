@@ -24,6 +24,7 @@ I'm technology professional with 4 years of experience. I like to troubleshoot, 
 
 ## Certifications ✅
 - AWS Cloud Practitioner
+- Unconplicating Docker - by <a href=https://github.com/badtuxx> @badtuxx </a>
 
 ## Contact
 - <a href="https://www.linkedin.com/in/guilherme-rodrigues07/">LinkedIn</a>
