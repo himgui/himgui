@@ -11,7 +11,7 @@ I'm technology professional with 4 years of experience. I like to troubleshoot, 
 - I'm a participant on <a href=https://github.com/badtuxx> @badtuxx </a> - <a href=https://github.com/badtuxx/MutiraoDevOps> MutiraoDevOps </a> <strong> FREE </strong> mentorship program. Where I'm learning some tools and soft skills I'll need for achieving a new position.
 
 - Also, I'm learning by myself the basics of some important DevOps tools, Python, Shell, CI/CD and Agile methodology.
-- The tool that I'm learning right now is <strong> Vagrant </strong>, I'm also looking to take the LPI-I Exam before Jun/22.
+- The tool that I'm learning right now is <strong> Vagrant </strong>, I'm also looking to take the LPI-I Exam before Jun 22nd.
 - I'm brainstorming a project with a friend so we can practice what we learn.
 
 ## Skills ⚡
