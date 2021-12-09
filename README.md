@@ -18,6 +18,7 @@ I'm technology professional with 4 years of experience. I like to troubleshoot, 
 
 - Windows, MacOs, Linux
 - Google Suite, Sheets
+- Docker, AWS
 - JAMF
 - Networking
 - Cisco IOS, Meraki
