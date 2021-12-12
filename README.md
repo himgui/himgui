@@ -1,18 +1,10 @@
-# Hi, I'm Gui 🤘🏽
-
-
 I'm technology professional with 4 years of experience. I like to troubleshoot, documenting process and automate activities. 
 
-* 🔭 I'm currently working as an <strong> . </strong>
+* 💼 I'm currently working as an .
 * 🌱 Right now I'm learning about <strong> DevOps practices and the cloud environment. </strong>
 
+🎓 I recently completed my first college degree at Centro Universitário Senac, where I took part in the Computer Networks course. Meanwhile, I'm still studying on my own the principles of DevOps, tools, and soft skills necessary.
 
-## What I'm Learning: 💡
-- I'm a participant on <a href=https://github.com/badtuxx> @badtuxx </a> - <a href=https://github.com/badtuxx/MutiraoDevOps> MutiraoDevOps </a> <strong> FREE </strong> mentorship program. Where I'm learning some tools and soft skills I'll need for achieving a new position.
-
-- Also, I'm learning by myself the basics of some important DevOps tools, Python, Shell, CI/CD and Agile methodology.
-- The tool that I'm learning right now is <strong> Vagrant </strong>, I'm also looking to take the LPI-I Exam before Jun 22nd.
-- I'm brainstorming a project with a friend so we can practice what we learn.
 
 ## Skills ⚡
 
