@@ -3,6 +3,3 @@ Helping people with tech issues for more than 5 years! I like to solve problems,
 ## Certifications ✅
 - AWS Cloud Practitioner
 - Uncomplicating Docker - by <a href=https://github.com/badtuxx> @badtuxx </a>
-
-## Contact
-- <a href="https://www.linkedin.com/in/guilherme-rodrigues07/">LinkedIn</a>
