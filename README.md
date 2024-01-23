@@ -1,4 +1,4 @@
-Helping people with tech issues for more than 5 years! I like to solve problems, document things, and automate jobs.
+Learning to Automate Stuff ;)
 
 ## Certifications ✅
 - AWS Cloud Practitioner
